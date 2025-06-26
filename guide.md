@@ -9,7 +9,7 @@ All projects **must be created using [EasyEDA Pro](https://pro.easyeda.com/)** (
 1. Go to: [https://oshwlab.com/activities/stars](https://oshwlab.com/activities/stars)
 2. Sign up for OSHWLab Stars.
 
-![[Pasted image 20250624183524.png]]
+![[./Pasted image 20250624183524.png]]
 
 ---
 
@@ -19,7 +19,7 @@ All projects **must be created using [EasyEDA Pro](https://pro.easyeda.com/)** (
 2. Click **Create Project** → **Existing Project**.
 3. Select your project from the dropdown list.
 
-![[Pasted image 20250624183918.png]]  
+![[./Pasted image 20250624183918.png]]  
 ![[Pasted image 20250624183904.png]]
 
 ---
