@@ -9,7 +9,7 @@ All projects **must be created using [EasyEDA Pro](https://pro.easyeda.com/)** (
 1. Go to: [https://oshwlab.com/activities/stars](https://oshwlab.com/activities/stars)
 2. Sign up for OSHWLab Stars.
 
-![[./Pasted image 20250624183524.png]]
+![Sign Up](Pasted%20image%2020250624183524.png)
 
 ---
 
@@ -19,8 +19,8 @@ All projects **must be created using [EasyEDA Pro](https://pro.easyeda.com/)** (
 2. Click **Create Project** → **Existing Project**.
 3. Select your project from the dropdown list.
 
-![[./Pasted image 20250624183918.png]]  
-![[Pasted image 20250624183904.png]]
+![Create Project](Pasted%20image%2020250624183918.png)  
+![Select Project](Pasted%20image%2020250624183904.png)
 
 ---
 
@@ -30,13 +30,13 @@ All projects **must be created using [EasyEDA Pro](https://pro.easyeda.com/)** (
 2. Mark your project as **Ongoing**.
 3. Complete all required fields.
 
-![[Pasted image 20250624184432.png]]
+![Upload Details](Pasted%20image%2020250624184432.png)
 
 4. Under **Project Tags**, select:
    - `HackClub2025`
    - `OSHWLab Stars`
 
-![[Pasted image 20250624184508.png]]
+![Select Tags](Pasted%20image%2020250624184508.png)
 
 ---
 
@@ -62,7 +62,7 @@ For reference, check out this example:
 
 Click **Publish** once you're ready.
 
-![[Pasted image 20250624185511.png]]
+![Publish](Pasted%20image%2020250624185511.png)
 
 ---
 
@@ -71,7 +71,7 @@ Click **Publish** once you're ready.
 1. Go back to the [OSHWLab Stars page](https://oshwlab.com/activities/stars).
 2. Click **Apply for Coupon** → **I Need Materials**.
 
-![[Pasted image 20250624185839.png]]
+![Apply for Coupon](Pasted%20image%2020250624185839.png)
 
 ---
 
@@ -82,25 +82,25 @@ Click **Publish** once you're ready.
    - **PCB + SMT Coupon** (if you're using PCBA), or
    - **PCB Coupon** (if you're only making a PCB).
 
-![[Pasted image 20250624190550.png]]
+![Select Coupon](Pasted%20image%2020250624190550.png)
 
 ---
 
 ### 📦 Step 8: Upload Required Files
 
 - **Gerber File**:  
-  ![[Pasted image 20250624193426.png]]
+  ![Gerber File](Pasted%20image%2020250624193426.png)
 
 - **Component Quantity**:  
   Find this from the **PCBA Price Breakdown** page.
 
 - **SMT Order Number**:  
-  ![[Pasted image 20250624193800.png]]
+  ![SMT Order Number](Pasted%20image%2020250624193800.png)
 
 - **Screenshots of the Order Page** (upload all three):  
-  ![[Pasted image 20250624191527.png]]  
-  ![[Pasted image 20250624191529.png]]  
-  ![[Pasted image 20250624191530.png]]
+  ![Order Screenshot 1](Pasted%20image%2020250624191527.png)  
+  ![Order Screenshot 2](Pasted%20image%2020250624191529.png)  
+  ![Order Screenshot 3](Pasted%20image%2020250624191530.png)
 
 ---
 
